@@ -1,0 +1,6 @@
+{
+  "name": "Sharda Lab Hisaab",
+  "description": "Patient Hisaab, billing and accounting manager for Sharda Pathological Lab with real-time bill calculations, digital signatures, and PDF/Print export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
